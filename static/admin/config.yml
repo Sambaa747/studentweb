@@ -2,6 +2,7 @@ backend:
   name: github
   repo: Sambaa747/studentweb
   branch: main
+  base_url: https://naughty-lalande-e597ac.netlify.app
 
 media_folder: static/assets
 public_folder: /assets
